@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 
 Clone the repository to your local machine: git clone https://github.com/yourusername/spam-filter.git
 Install any dependencies required by the project: npm install or pip install -r requirements.txt
-Modify the regex patterns and rules in the configuration files according to your spam filtering needs.
+Modify the 'regex patterns' and rules in the configuration files according to your spam filtering needs.
 Run the spam filter script: python spam_filter.py or node spam_filter.js
 Test the spam filter with sample messages and adjust the patterns/rules as necessary for better accuracy.
 Contributing
