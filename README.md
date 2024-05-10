@@ -8,7 +8,7 @@ This project is aimed at developing a spam filter using regular expressions (reg
 
 Features
 `Regex Patterns`: The project includes a set of regex patterns designed to match common spam phrases, URLs, email addresses, and other suspicious content.
-Capture Groups: Utilizing capture groups allows for extracting specific parts of a message for further analysis or filtering.
+Capture Groups: 'Utilizing capture groups' allows for extracting specific parts of a message for further analysis or filtering.
 Lookaheads: Positive and negative lookaheads are used to check for specific conditions ahead of the matched text, enhancing the accuracy of spam detection.
 Customizable Filters: Users can customize the `regex patterns` and rules to adapt the spam filter to different types of content and languages.
 Getting Started
