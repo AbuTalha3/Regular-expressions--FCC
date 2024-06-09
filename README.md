@@ -20,7 +20,7 @@ Modify the 'regex patterns' and rules in the configuration files according to yo
 Run the spam filter script: python spam_filter.py or node spam_filter.js
 Test the spam filter with sample messages and adjust the patterns/rules as necessary for better accuracy.
 Contributing
-Contributions are welcome! If you have suggestions, bug reports, or improvements for the spam filter project, please open an issue or submit a pull request on GitHub.
+Contributions are welcome! If you have 'suggestions', bug reports, or improvements for the spam filter project, please open an issue or submit a pull request on GitHub.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
